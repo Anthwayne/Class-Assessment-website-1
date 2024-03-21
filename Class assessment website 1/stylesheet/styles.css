@@ -8,6 +8,9 @@ body, html {
     width: 80%;
     margin: 0 auto;
     text-align: center;
+    border: 10px solid  rgb(124, 5, 5); 
+    padding: 20px; 
+    
 }
 
 header, h1{
