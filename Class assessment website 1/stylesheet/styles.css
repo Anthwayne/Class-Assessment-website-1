@@ -1,0 +1,61 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+header, h1{
+    background-color: rgb(124, 5, 5);
+    color: white;
+    padding: 20px;
+    
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+main, li{
+    padding: 20px; font-size: larger; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+footer{
+    background-color: rgb(124, 5, 5);
+    color: white;
+    padding: 10px;
+}
+h1{
+    text-decoration: underline; font-size: 60px;
+}
+h2 {
+    text-decoration: underline;
+}
+
+
+.menu-btn {
+    display: none;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+
